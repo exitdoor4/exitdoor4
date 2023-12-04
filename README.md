@@ -3,7 +3,7 @@
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-I'm Jihye Shin, a growing developer. 🌱 <br>
+I'm Gyuwon Kim, a growing developer. 🌱 <br>
 I want to be a person who gives you new wisdom. ✨
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
